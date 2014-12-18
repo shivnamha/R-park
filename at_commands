@@ -1,0 +1,33 @@
+        # "GET"
+        # Get registration status
+        'GET_REG_STATUS'     : '+CREG?',
+        # Get operator info
+        'GET_OPERATOR'       : '+COPS?',
+        # Get the list of operator names known to the module
+        'GET_OPERATOR_NAMES' : '+COPN',
+        # Get the country code of the network
+        'GET_COUNTRY_CODE'   : '+GCI?',
+        # Get signal quality
+        'GET_SIG_QUALITY'    : '+CSQ',
+        # Get IMEI
+        'GET_IMEI'           : '+CGSN',
+        # Get manunfacturer
+        'GET_MFG'            : '+CGMI',
+        # Get model
+        'GET_MODEL'          : '+CGMM',
+        # Get revision
+        'GET_FW_REV'         : '+CGMR',
+        # Get the SIM number
+        'GET_IMSI'           : '+CIMI',
+
+        # "SET"
+        # Make response to AT+CREG? contain extended information*
+        'SET_REG_FORMAT'     : '+CREG=2',
+        # Make response to AT+COPS? be numerical format
+        'SET_OP_FORMAT'      : '+COPS=3,2',
+
+        # SPECIAL COMMANDS
+        # Reset GSM stack and set full functionality/everything "on"
+        'RESET'              : '+CFUN=1'    
+}
+
