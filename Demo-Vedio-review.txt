@@ -1,0 +1,61 @@
+Demo video comments:
+
+1. Please place the TAG iOS app to an independent page
+a. The screen has too many other apps
+2. What is the main difference between the new and old mobile app?
+3. Enter the auth code
+a. Is the auth code pre-set?
+b. Pre-set to be 12345/ 54321?
+4. Please place the conference board (device) at a distance (say 1km which is out of Wifi/ Bluetooth range) over the mobile phone
+a. Using Google map and show the current location of the mobile phone
+b. Using face time to monitor the conference board (device)
+c. This is to show the our biggest selling point
+i. GSM capability 
+ii. Not rely on Bluetooth and Wifi
+5. Screens:
+a. 01:30
+i. satellite screen is not clear
+ii. can turn the iPhone screen brighter?
+b. 01:35
+i. Save a location?
+ii. Just like a geo-fencing?
+iii. Whenever it leaves/ enters then having an alert?
+c. 01:16
+i. why is it showing the 1st TAG again?
+d. 02:14
+i. lost TAG
+ii. again please use a hand to show the LED lamp
+e. 02:26
+i. Can show the Lost TAGS before 2:14?
+ii. So it can show only the 1st TAG is on Lost TAGS before reporting 2nd TAG is lost
+f. 02:29
+i. why do we report 1st TAG lost again?
+6. Is it possible to show 2 different icons of 2 TAG devices?
+a. It seems hard for users to differentiate among devices
+b. A bit confusing to tell which TAG it is 
+7. Able to use press a button on conference board?
+8. Can show buzzer alert sound once mobile app’s panic mode is on?
+9. Can add words on screen in which tells the audience we are demonstrating the specified functions? Like virtual fence, panic button, and so on
+
+
+
+
+Why a video?
+1. Show functions of mobile app
+a. People Finding
+b. Virtual Fence
+c. Panic button
+d. Location Updates
+e. LED Flashing
+f. Buzzer
+2. Show main features of TAG
+a. GSM capability (i.e. we are not Wifi and Bluetooth)
+b. 2-way communication
+c. small form factor (not this time, as it is a demo)
+d. Others:
+i. Geo-fencing
+ii. Panic button/ magic button on the device
+3. Show the conference board/ device works
+
+
+
